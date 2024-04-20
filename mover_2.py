@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import rospy
 from geometry_msgs.msg import Twist
-#Cambio en la rama Master
+#Cambio en la rama develop
 
 def move_turtle():
     # Inicializa el nodo de ROS llamado "move_turtle"
